@@ -1,2 +1,2 @@
 # LogonBlocker
-A simple program to block brute force attack on Windows Server based on IP addresses
+A simple program to block IP brute force attacks on Windows Server
